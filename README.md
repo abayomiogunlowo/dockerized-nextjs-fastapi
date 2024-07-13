@@ -25,7 +25,7 @@ In production, the FastAPI server is hosted as [Python serverless functions](htt
 
 ## Demo
 
-https://dockerized-nextjs-fastapi-starter.vercel.app/
+https://dockerized-nextjs-fastapi.vercel.app/
 
 ## Deploy Your Own
 
