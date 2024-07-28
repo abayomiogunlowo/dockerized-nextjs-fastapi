@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/api/python")
 def hello_world():
-    return {"message": "hello world"}
+    return {"message": "hello world of firi solutions. You will work in Jesus Name!"}
